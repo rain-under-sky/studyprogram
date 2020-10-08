@@ -1,0 +1,4 @@
+C:\Users\Rainbow\source\repos\10_6_1\Debug\10_6_1.exe
+C:\Users\Rainbow\source\repos\10_6_1\Debug\10_6_1.pdb
+D:\program\10_6_1\Debug\10_6_1.exe
+D:\program\10_6_1\Debug\10_6_1.pdb
